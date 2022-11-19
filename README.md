@@ -1,9 +1,9 @@
 # Hello and welcome to my Github profile ! On this Github page, you'll get to see all my projects.
-I'm currently working on my website, moodular. There also are all my python stuff, because of school i'm coding in python sometimes. 
+I'm currently working on my website, moodal. There also are all my python stuff, because of school i'm coding in python sometimes. 
 
 Quick list of TODOS projects : 
 
-* Finish moodular. website
+* Finish moodal. website
 * Self host it
 * Upgrade my python skills
 
