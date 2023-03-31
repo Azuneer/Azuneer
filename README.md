@@ -2,7 +2,7 @@
 
 Je travaille actuellement sur mon site personnel "moodal.", l'objectif de ce Github étant de conserver une trace de tous mes projets et également pour l'hébergement de mon serveur.
 
-Liste rapide des TODOS :
+Petite TODO list :
 
 * Terminer la conception de mon site moodal.
 * L'héberger avec une machine
