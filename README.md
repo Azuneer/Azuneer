@@ -1,13 +1,13 @@
-# Hello and welcome to my Github profile ! On this Github page, you'll get to see all my projects.
-I'm currently working on my website, moodal. There also are all my python stuff, because of school i'm coding in python sometimes. 
+# Bonjour et bienvenue sur ma page Github! Ici, vous verrez tout mes différents projets.
+Je travaille actuellement sur mon site personnel "moodal.", l'objectif de ce Github étant de conserver une trace de tout mes projets et également pour l'hébergement de mon serveur.
 
-Quick list of TODOS projects : 
+Liste rapide des TODOS : 
 
-* Finish moodal. website
-* Self host it
-* Upgrade my python skills
+* Terminer la conception de mon site moodal.
+* L'heberger avec une machine
+* Améliorer mes compétences en programmation python
 
-Have a nice look around! ^^ 
+Bonne visite à vous! ^^ 
 
 <!---
 Azuneer/Azuneer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
