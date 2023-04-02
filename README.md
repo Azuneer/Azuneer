@@ -1,4 +1,4 @@
-# Bonjour et bienvenue sur ma page Github! Ici, vous verrez ici tous mes différents projets.
+# Bonjour et bienvenue sur ma page Github! Ici, vous verrez tous mes différents projets.
 
 Je travaille actuellement sur mon site personnel "moodal.", l'objectif de ce Github étant de conserver une trace de tous mes projets et également pour l'hébergement de mon serveur.
 
