@@ -7,6 +7,8 @@ Petite TODO list :
 * Terminer la conception de mon site moodal.
 * L'héberger avec une machine
 * Améliorer mes compétences en programmation python
+* Finir mon e-portfolio
+* Commencer un projet de monitoring d'une machine Linux en utilisant le fichier /proc
 
 Bonne visite à vous ! ^^ 
 
